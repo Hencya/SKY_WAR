@@ -13,7 +13,7 @@ To see if it works, run one of the included examples:
 For detail information about pygame installation, go to https://www.pygame.org/wiki/GettingStarted
 
 # Run the game
-`python3 alien_invasion.py`
+`python3 sky_war.py`
 
 # Source
 Python crash course : a hands-on, project-based introduction to programming 2nd Edition by Eric Matthes.
