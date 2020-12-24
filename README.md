@@ -1,5 +1,5 @@
 # SKY WAR
-A 2D game in which the aim is to shoot down a fleet of aliens as they drop down the screen in levels that increase in speed and difficulty.
+A 2D game in which the objective is to shoot down a fleet of aliens descending the screen in levels that increase in speed and difficulty. 
 
 # Pygame Installation
 pygame requires Python; if you don't already have it, you can download it from python.org. Use python 3.7.7 or greater, because it is much friendlier to newbies, and additionally runs faster.
